@@ -1,3 +1,4 @@
+#from 2.9.1
 lightdm
 light-locker-
 
@@ -19,15 +20,13 @@ libreoffice-writer-
 brltty-
 speech-dispatcher-
 
-# Do not install Raspberry Pi firmware
-raspi-firmware-
-
-xfce4
-xfce4-terminal
-task-xfce-desktop
+#xfce4
+#xfce4-terminal
+#task-xfce-desktop
 lsb-release
 # remove nmtray and use network-manager
-network-manager
+nm-tray-
+network-manager-gnome
 pciutils
 synaptic
 geany
@@ -62,3 +61,33 @@ xserver-xorg-core
 # Keyrings
 debian-archive-keyring
 apt-transport-https
+
+mate-desktop-environment
+mate-tweak
+geany
+atril
+usbutils
+numlockx
+python3-pip
+samba
+dconf-editor
+vlc
+debconf-utils
+git
+at
+build-essential
+dkms
+autoconf
+php-cli
+caja-share
+bc
+
+linuxcnc-uspace-dev
+libcanberra-gtk-module
+
+python3-usb
+python3-qtpyvcp
+git
+gh
+gimp
+inkscape
