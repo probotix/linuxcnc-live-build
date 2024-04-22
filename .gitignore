@@ -6,3 +6,4 @@ binary/
 build.log
 *.contents
 *.files
+config/includes.binary/clone_linuxcnc.sh
